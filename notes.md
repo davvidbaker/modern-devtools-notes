@@ -4,6 +4,7 @@
   - still use `src` for old browsers
   - `sizes` too
 - placeholder images from [http://placehold.it]()
+- [responsive image linter](https://github.com/ausi/respimagelint)
 
 
 # performance ⚡️
