@@ -7,7 +7,7 @@
 
 
 # performance ⚡️
-- `performance` api in browser console, eg:
+- [`performance` api](https://developer.mozilla.org/en-US/docs/Web/API/Performance) in browser console, eg:
   ```
   performance.getEntriesByType('resource')
   ```
