@@ -1,6 +1,6 @@
 
-# images 🌆
-- use `srcset` attribuet for multiple image sizes
+# images 
+- use `srcset` attribute for multiple image sizes
   - still use `src` for old browsers
   - `sizes` too
 - placeholder images from [http://placehold.it]()
