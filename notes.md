@@ -1,5 +1,5 @@
 
-# images 
+# images 🌆
 - use `srcset` attribute for multiple image sizes
   - still use `src` for old browsers
   - `sizes` too
